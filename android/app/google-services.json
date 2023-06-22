@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402367563755",
+    "project_id": "airplane-b20a9",
+    "storage_bucket": "airplane-b20a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402367563755:android:8e3242274d299ae159bbae",
+        "android_client_info": {
+          "package_name": "com.heru.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402367563755-dmorksmi6kjq271o8bj3teonr0lm90tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVM-2r4Szu0vdgKGXX5BBX2_oUmTIqMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402367563755-dmorksmi6kjq271o8bj3teonr0lm90tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
